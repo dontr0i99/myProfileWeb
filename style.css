@@ -40,8 +40,7 @@ body {
 
 .biodata {
   background: linear-gradient(#ffffff 0%, #ffffff9f 40%, #ffffff00 100%);
-  padding-bottom: 300px;
-  padding-top: 100px;
+  min-height: 500px;
 }
 
 .biodata h1 {
