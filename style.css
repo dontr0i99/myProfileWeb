@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Roboto+Flex:opsz,wght@8..144,300&family=Satisfy&display=swap');
+.spc{
+    font-family: 'Satisfy', cursive;
+    font-size: 35px;
+}
+
+.profilImage {
+  width: 250px;
+}
+
+.profile {
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+body {
+  background: linear-gradient(#5D12D2 0%, #B931FC 40%, #FF6AC2 100%);
+}
+
+.tengah{
+    justify-content: center;
+}
+
+.svg{
+    position: relative;
+    bottom: -10px;
+}
+
+.profile h2 {
+  color: white;
+}
+
+.profile h4 {
+  color: white;
+  transform: translateY(-10px);
+}
+
+.biodata {
+  background: linear-gradient(#ffffff 0%, #ffffff9f 40%, #ffffff00 100%);
+  padding-bottom: 300px;
+  padding-top: 100px;
+}
+
+.biodata h1 {
+    padding-bottom: 50px;
+}
+
+.achievement h1 {
+    padding-bottom: 50px;
+}
+
+.card {
+    padding: 10px 0px;
+}
+
+.footer {
+  background-color: #fff;
+  padding-bottom: 20px;
+}
+
+.textWhite {
+  color: white;
+}
+
+.contact a {
+  color: black;
+  font-size: 30px;
+}
+
+.wm{
+    padding-top: 30px;
+}
+
+.achievement {
+    padding-top: 100px;
+}
